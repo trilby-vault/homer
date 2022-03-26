@@ -60,4 +60,4 @@ services:
       - name: "Private Bin"
         logo: "assets/tools/sample.png"
         subtitle: "Online Clipboard"
-        url: "https://www.bin.sinuk.dev"
+        url: "https://bin.sinuk.dev"
